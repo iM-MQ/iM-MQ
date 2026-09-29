@@ -38,6 +38,6 @@ I'm currently extending my skills into **containers, infrastructure as code and 
 
 ### 🎓 Certifications
 
-CCNA · AWS Certified Solutions Architect – Associate · AZ-900 · AI-900 · PL-900
+AWS Certified Solutions Architect – Associate · AZ-900 · AI-900 · PL-900 · CCNA
 
 ---
