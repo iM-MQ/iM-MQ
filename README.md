@@ -26,7 +26,7 @@ I'm currently extending my skills into **containers, infrastructure as code and 
 
 | Project | Description |
 |---|---|
-| [docker-asset-register](https://github.com/[iM-iUser]/docker-asset-register) | Containerised two-tier web app with Docker Compose, network segmentation, persistent storage and a CI/CD pipeline |
+| [docker-asset-register](https://github.com/[iM-MQ]/docker-asset-register) | Containerised two-tier web app with Docker Compose, network segmentation, persistent storage and a CI/CD pipeline |
 
 ### 🚧 In progress
 
