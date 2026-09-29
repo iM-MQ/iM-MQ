@@ -27,6 +27,7 @@ I'm currently extending my skills into **containers, infrastructure as code and 
 | Project | Description |
 |---|---|
 | [docker-asset-register](https://github.com/iM-MQ/docker-asset-register) | Containerised two-tier web app with Docker Compose, network segmentation, persistent storage and a CI/CD pipeline |
+| [terraform-azure-labs](https://github.com/iM-MQ/terraform-azure-labs) | Hands-on Terraform labs building Azure infrastructure as code: workflow, networking, modules and remote state |
 
 ### 🚧 In progress
 
