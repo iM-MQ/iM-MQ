@@ -39,6 +39,19 @@ I'm currently extending my skills into **containers, infrastructure as code and 
 
 ### 🎓 Certifications
 
-AWS Certified Solutions Architect – Associate · AZ-900 · AI-900 · PL-900 · CCNA
+**Cisco**
+- Cisco Certified Network Associate (CCNA) – Nov 2022
+
+**Microsoft**
+- Microsoft Certified: PL-900 Power Platform Fundamentals – Apr 2021
+- Microsoft Certified: AI-900 Azure AI Fundamentals – Apr 2021
+- Microsoft Certified: AZ-900 Azure Fundamentals – Apr 2021
+
+**Amazon Web Services**
+- AWS Certified Solutions Architect – Associate – Jun 2020
+
+**Yorkshire Ambulance Service, NHS**
+- Diploma, AMPDS – International Academy of Emergency Medical Dispatch – Jan 2016
+- Basic Life Support – Jan 2016
 
 ---
