@@ -50,8 +50,4 @@ I'm currently extending my skills into **containers, infrastructure as code and 
 **Amazon Web Services**
 - AWS Certified Solutions Architect – Associate – Jun 2020
 
-**Yorkshire Ambulance Service, NHS**
-- Diploma, AMPDS – International Academy of Emergency Medical Dispatch – Jan 2016
-- Basic Life Support – Jan 2016
-
 ---
