@@ -71,5 +71,3 @@ The two projects connect. The image built by the Docker pipeline is the one depl
 - AWS Certified Solutions Architect – Associate – Jun 2020
 
 ---
-
-📫 [Connect with me on LinkedIn]([your LinkedIn URL])
