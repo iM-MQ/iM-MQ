@@ -10,14 +10,42 @@ I'm now building on that experience with infrastructure as code, containers and 
 
 ### 🏆 Delivery highlights
 
+**🔐 Identity & domain migration**
+
 | Project | Scale | What I did |
 |---|---|---|
-| Active Directory domain consolidation | 600+ users, UK, EU and India | Lead migration engineer, consolidating three domains into one using ADMT with no significant downtime. Designed the GPO structure and security group model for the new domain |
-| Hybrid identity migration | Organisation-wide | Sole engineer on an Azure Cloud Sync project, updating Immutable IDs with PowerShell and validating sign-in end to end before cutover |
+| Active Directory domain consolidation | 600+ users, UK, EU and India | Lead migration engineer, consolidating three domains into one using ADMT with no significant downtime. Designed the GPO structure and security group model for the new domain, then ran full post-migration checks before cutover |
+| Hybrid identity migration | Organisation-wide | Sole engineer on an Azure Cloud Sync project, updating Immutable IDs with PowerShell and validating sign-in end to end in AVD before production cutover |
+| Law firm practice integration | Full Irish practice | Played a lead role in integrating a global law firm's Irish practice into its international business, covering IT systems, user accounts and services with minimal disruption to live legal work |
+| Full estate rebuild after a malware attack | 700+ users, multi-site | Rebuilt Active Directory, Azure AD, Group Policy, ADFS and SSO from the ground up after total hardware loss, and redeployed every endpoint |
+
+**💻 Endpoint & device management**
+
+| Project | Scale | What I did |
+|---|---|---|
+| Windows 11 with Hybrid Azure AD Join | Firm-wide | Delivered Windows 11 deployments through Intune, joining devices to both on-premises Active Directory and Entra ID |
+| Android Intune implementation | Corporate Android estate | End-to-end rollout: tenant configuration, compliance and configuration profiles, app packaging and deployment, and enrolment through Company Portal |
+| First MDM platform for an organisation | 700+ users | Introduced Microsoft Intune as the organisation's first centralised mobile device management, alongside BitLocker and LAPS across the rebuilt estate |
+| iPhone MDM migration | Firm-wide iOS and macOS | Led the migration to MobileIron, validating policy and app compliance on new devices and decommissioning the old ones |
+| Hardware refresh programmes | 900+ monitors and docks, plus estate-wide device refresh | Replaced end-of-life devices and desk equipment, with every new build checked against firm-wide standards before deployment |
+
+**☁️ Microsoft 365 & compliance**
+
+| Project | Scale | What I did |
+|---|---|---|
 | GDPR data-residency remediation | 1,000+ SharePoint and OneDrive accounts | Relocated all affected accounts to the correct region, then designed an onboarding procedure as a preventative control to close the audit finding |
-| Document management migration | 4,000+ users | Migrated a global law firm to iManage, including full UAT and QA within Citrix and KB articles for every issue found |
-| Full estate rebuild after a malware attack | 700+ users, multi-site | Rebuilt Active Directory, Azure AD, Group Policy, ADFS and SSO from the ground up, redeployed every endpoint and introduced Intune |
-| Security uplift | Organisation-wide | Remediated vulnerabilities with Tenable Nessus, hardened to CIS benchmarks and helped achieve Cyber Essentials Plus |
+| SharePoint Online and Teams SME | 600+ user global organisation | Owned site architecture, permissions, sharing models and governance throughout a wider identity migration programme |
+| Document management migration | 4,000+ users | Migrated a global law firm to iManage across EMEA and UK offices, including full UAT and QA within Citrix and KB articles for every issue found |
+| Exchange migration | Organisation-wide | Migrated mailboxes from Exchange 2013 to 2016 with no data loss and minimal user impact |
+
+**🛡️ Security, networking & infrastructure**
+
+| Project | Scale | What I did |
+|---|---|---|
+| Cyber Essentials Plus | Organisation-wide | Remediated critical vulnerabilities with Tenable Nessus, hardened the estate to CIS benchmarks and delivered patching through PDQ Deploy to achieve CE+ certification |
+| VPN migration and security uplift | Firm-wide | Migrated remote access from Check Point to Palo Alto GlobalProtect and rolled out BitLocker as part of a wider security uplift |
+| Workload migration to Azure | Hyper-V and VMware estate | Contributed to moving workloads into Azure, covering readiness checks, replication and post-migration testing |
+| Change management | Migration programme | Presented and delivered changes through CAB, with risk, impact and rollback assessments, executed within agreed change windows |
 
 ---
 
