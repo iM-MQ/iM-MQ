@@ -1,4 +1,4 @@
-# Hi,
+# 👋 Hi,
 
 **Infrastructure & Cloud Engineer** · Azure · Microsoft 365 · Entra ID · Intune · Terraform · Docker
 
@@ -8,7 +8,7 @@ I'm now building on that experience with infrastructure as code, containers and 
 
 ---
 
-## Delivery highlights
+### 🏆 Delivery highlights
 
 | Project | Scale | What I did |
 |---|---|---|
@@ -21,7 +21,7 @@ I'm now building on that experience with infrastructure as code, containers and 
 
 ---
 
-## Hands-on labs
+### 🧪 Hands-on labs
 
 | Repository | What it shows |
 |---|---|
@@ -30,7 +30,7 @@ I'm now building on that experience with infrastructure as code, containers and 
 
 The two projects connect. The image built by the Docker pipeline is the one deployed to Azure in [Terraform Lab 05](https://github.com/iM-MQ/terraform-azure-labs/tree/main/lab-05-capstone), pinned to a specific commit. Each lab includes the problems I hit and how I worked them out, not just the parts that went smoothly.
 
-### Currently working on
+### 🚧 Currently working on
 
 - Kubernetes on Azure (AKS), built with Terraform
 - An Azure Landing Zone: management groups, Azure Policy and hub-and-spoke networking
@@ -38,7 +38,7 @@ The two projects connect. The image built by the Docker pipeline is the one depl
 
 ---
 
-## What I work with
+### 🔧 What I work with
 
 | Area | Technologies |
 |---|---|
@@ -48,7 +48,7 @@ The two projects connect. The image built by the Docker pipeline is the one depl
 | **Networking & Security** | TCP/IP, DNS, DHCP, VLANs, VPN, FortiGate, SonicWall, Palo Alto GlobalProtect, CrowdStrike, Tenable Nessus, BitLocker, LAPS, Cyber Essentials Plus |
 | **Infrastructure as Code & DevOps** | Terraform (Azure, modules, remote state), Docker, Docker Compose, Azure Container Apps, Git, GitHub Actions, PowerShell |
 
-## How I work
+### 🤝 How I work
 
 - **Changes go through proper control.** I've presented and delivered changes through CAB, with risk, impact and rollback plans, and I apply the same thinking to `terraform plan`.
 - **Test at every stage.** On migrations I test before moving users across. In my labs, I read every plan before applying and check anything I don't expect.
@@ -57,17 +57,19 @@ The two projects connect. The image built by the Docker pipeline is the one depl
 
 ---
 
-## Certifications
+### 🎓 Certifications
 
 **Cisco**
 - Cisco Certified Network Associate (CCNA) – Nov 2022
 
 **Microsoft**
-- PL-900 Power Platform Fundamentals – Apr 2021
-- AI-900 Azure AI Fundamentals – Apr 2021
-- AZ-900 Azure Fundamentals – Apr 2021
+- Microsoft Certified: PL-900 Power Platform Fundamentals – Apr 2021
+- Microsoft Certified: AI-900 Azure AI Fundamentals – Apr 2021
+- Microsoft Certified: AZ-900 Azure Fundamentals – Apr 2021
 
 **Amazon Web Services**
 - AWS Certified Solutions Architect – Associate – Jun 2020
 
 ---
+
+📫 [Connect with me on LinkedIn]([your LinkedIn URL])
