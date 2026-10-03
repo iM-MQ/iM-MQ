@@ -1,4 +1,4 @@
-# 👋 Hi,
+# 👋 Hi there
 
 **Infrastructure & Cloud Engineer** · Azure · Microsoft 365 · Entra ID · Intune · Terraform · Docker
 
@@ -55,9 +55,9 @@ I'm now building on that experience with infrastructure as code, containers and 
 |---|---|
 | [docker-asset-register](https://github.com/iM-MQ/docker-asset-register) | A containerised two-tier web app (Flask and PostgreSQL) with Docker Compose, an internal-only database network, persistent storage, a non-root container and a GitHub Actions pipeline publishing images tagged by commit |
 | [terraform-azure-labs](https://github.com/iM-MQ/terraform-azure-labs) | Five labs building Azure infrastructure as code: the Terraform workflow, segmented networking with NSGs, reusable modules with validation, remote state with locking and versioning, and a capstone deploying the Asset Register to Azure Container Apps with a managed PostgreSQL database |
-| [kubernetes-labs](https://github.com/iM-MQ/kubernetes-labs) | Kubernetes from a local cluster up to AKS: pods and manifests, Deployments, Services, ConfigMaps and Secrets, and running the Asset Register on a cluster built with Terraform (in progress) |
+| [kubernetes-labs](https://github.com/iM-MQ/kubernetes-labs) | Kubernetes from a local cluster up to AKS: pods and manifests, Deployments, Services, and the Asset Register running with PostgreSQL, a Secret, a ConfigMap, persistent storage and health probes. AKS built with Terraform is next (in progress) |
 
-The two projects connect. The image built by the Docker pipeline is the one deployed to Azure in [Terraform Lab 05](https://github.com/iM-MQ/terraform-azure-labs/tree/main/lab-05-capstone), pinned to a specific commit. Each lab includes the problems I hit and how I worked them out, not just the parts that went smoothly.
+The three projects connect. The image built by the Docker pipeline is the one deployed to Azure in [Terraform Lab 05](https://github.com/iM-MQ/terraform-azure-labs/tree/main/lab-05-capstone) and run on Kubernetes in [Kubernetes Lab 04](https://github.com/iM-MQ/kubernetes-labs/tree/main/lab-04-asset-register), pinned to a specific commit each time. Each lab includes the problems I hit and how I worked them out, not just the parts that went smoothly.
 
 ### 🚧 Currently working on
 
@@ -75,7 +75,7 @@ The two projects connect. The image built by the Docker pipeline is the one depl
 | **Microsoft 365** | Exchange Online, SharePoint Online, Teams, OneDrive, Intune / Autopilot, E3 / E5 licensing |
 | **Infrastructure** | Active Directory, GPO, ADMT, Windows Server, Hyper-V, VMware ESXi, DFSR, SCCM / MECM, Citrix |
 | **Networking & Security** | TCP/IP, DNS, DHCP, VLANs, VPN, FortiGate, SonicWall, Palo Alto GlobalProtect, CrowdStrike, Tenable Nessus, BitLocker, LAPS, Cyber Essentials Plus |
-| **Infrastructure as Code & DevOps** | Terraform (Azure, modules, remote state), Docker, Docker Compose, Azure Container Apps, Git, GitHub Actions, PowerShell |
+| **Infrastructure as Code & DevOps** | Terraform (Azure, modules, remote state), Docker, Docker Compose, Kubernetes, Azure Container Apps, Git, GitHub Actions, PowerShell |
 
 ### 🤝 How I work
 
