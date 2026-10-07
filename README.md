@@ -56,12 +56,13 @@ I'm now building on that experience with infrastructure as code, containers and 
 | [docker-asset-register](https://github.com/iM-MQ/docker-asset-register) | A containerised two-tier web app (Flask and PostgreSQL) with Docker Compose, an internal-only database network, persistent storage, a non-root container and a GitHub Actions pipeline publishing images tagged by commit |
 | [terraform-azure-labs](https://github.com/iM-MQ/terraform-azure-labs) | Five labs building Azure infrastructure as code: the Terraform workflow, segmented networking with NSGs, reusable modules with validation, remote state with locking and versioning, and a capstone deploying the Asset Register to Azure Container Apps with a managed PostgreSQL database |
 | [kubernetes-labs](https://github.com/iM-MQ/kubernetes-labs) | Five labs from a local cluster to AKS: pods and manifests, Deployments, Services, the Asset Register with PostgreSQL, a Secret, a ConfigMap, persistent storage and health probes, and a capstone on AKS built with Terraform, including a root-cause investigation of a VM size restriction |
+| [azure-landing-zone](https://github.com/iM-MQ/azure-landing-zone) | An Azure landing zone built with Terraform in the Cloud Adoption Framework layout: a management group hierarchy tested against drift and deletion, followed by Azure Policy guardrails, hub-and-spoke networking and central management (in progress) |
 
 The three projects connect. The image built by the Docker pipeline is the one deployed to Azure in [Terraform Lab 05](https://github.com/iM-MQ/terraform-azure-labs/tree/main/lab-05-capstone) and run on Kubernetes, locally in [Kubernetes Lab 04](https://github.com/iM-MQ/kubernetes-labs/tree/main/lab-04-asset-register) and on AKS in [Kubernetes Lab 05](https://github.com/iM-MQ/kubernetes-labs/tree/main/lab-05-aks), pinned to a specific commit each time. Each lab includes the problems I hit and how I worked them out, not just the parts that went smoothly.
 
 ### 🚧 Currently working on
 
-- An Azure Landing Zone: management groups, Azure Policy and hub-and-spoke networking
+- Building an [Azure Landing Zone](https://github.com/iM-MQ/azure-landing-zone) with Terraform: management groups done, with Azure Policy, hub-and-spoke networking and platform management next
 - Rebuilding the Asset Register as a REST API with FastAPI, with automated tests in the pipeline
 
 ---
