@@ -14,7 +14,7 @@ I'm now building on that experience with infrastructure as code, containers and 
 
 | Project | Scale | What I did |
 |---|---|---|
-| Active Directory domain consolidation | 600+ users, UK, EU and India | Lead migration engineer, consolidating three domains into one using ADMT with no significant downtime. Designed the GPO structure and security group model for the new domain, then ran full post-migration checks before cutover |
+| Active Directory domain consolidation | 800+ users, UK, EU and India | Lead migration engineer, consolidating three domains into one using ADMT with no significant downtime. Designed the GPO structure and security group model for the new domain, then ran full post-migration checks before cutover |
 | Hybrid identity migration | Organisation-wide | Sole engineer on an Azure Cloud Sync project, updating Immutable IDs with PowerShell and validating sign-in end to end in AVD before production cutover |
 | Law firm practice integration | Full Irish practice | Played a lead role in integrating a global law firm's Irish practice into its international business, covering IT systems, user accounts and services with minimal disruption to live legal work |
 | Full estate rebuild after a malware attack | 700+ users, multi-site | Rebuilt Active Directory, Azure AD, Group Policy, ADFS and SSO from the ground up after total hardware loss, and redeployed every endpoint |
