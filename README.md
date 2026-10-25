@@ -58,13 +58,14 @@ I'm now building on that experience with infrastructure as code, containers and 
 | [kubernetes-labs](https://github.com/iM-MQ/kubernetes-labs) | Five labs from a local cluster to AKS: pods and manifests, Deployments, Services, the Asset Register with PostgreSQL, a Secret, a ConfigMap, persistent storage and health probes, and a capstone on AKS built with Terraform, including a root-cause investigation of a VM size restriction |
 | [azure-landing-zone](https://github.com/iM-MQ/azure-landing-zone) | An Azure landing zone built with Terraform in the Cloud Adoption Framework layout, in four tested labs: a management group hierarchy, Azure Policy guardrails with deny tests and a compliance review, a hub-and-spoke network with Azure Firewall, Bastion and a scoped policy exemption, and central logging with KQL, budgets and group-based access inherited from the top |
 | [fastapi-asset-register](https://github.com/iM-MQ/fastapi-asset-register) | The Asset Register rebuilt as a REST API with FastAPI, step by step, in five tested labs: Pydantic validation and interactive docs, PostgreSQL through SQLAlchemy with a separate test database, 76 tests run by GitHub Actions on every push with a ruleset that blocks merging unless they pass, and a hardened, non-root container image that CI builds, smoke-tests and publishes to GitHub Container Registry |
+| [network-automation-labs](https://github.com/iM-MQ/network-automation-labs) | Refreshing my CCNA routing hands-on with Containerlab and FRRouting, a router with a Cisco-like command line. Every network is defined as code and rebuilt from the repository to prove it: static routing with return-path troubleshooting and packet captures, and OSPF with DR election, equal-cost multipath and rerouting around a failed link with no lost pings. BGP, Python automation and network tests in CI are next |
 
-The three projects connect. The image built by the Docker pipeline is the one deployed to Azure in [Terraform Lab 05](https://github.com/iM-MQ/terraform-azure-labs/tree/main/lab-05-capstone) and run on Kubernetes, locally in [Kubernetes Lab 04](https://github.com/iM-MQ/kubernetes-labs/tree/main/lab-04-asset-register) and on AKS in [Kubernetes Lab 05](https://github.com/iM-MQ/kubernetes-labs/tree/main/lab-05-aks), pinned to a specific commit each time. Each lab includes the problems I hit and how I worked them out, not just the parts that went smoothly.
+The Docker, Terraform and Kubernetes projects connect. The image built by the Docker pipeline is the one deployed to Azure in [Terraform Lab 05](https://github.com/iM-MQ/terraform-azure-labs/tree/main/lab-05-capstone) and run on Kubernetes, locally in [Kubernetes Lab 04](https://github.com/iM-MQ/kubernetes-labs/tree/main/lab-04-asset-register) and on AKS in [Kubernetes Lab 05](https://github.com/iM-MQ/kubernetes-labs/tree/main/lab-05-aks), pinned to a specific commit each time. Each lab includes the problems I hit and how I worked them out, not just the parts that went smoothly.
 
 ### 🚧 Currently working on
 
-- 
-
+- Network automation: BGP next, then automating and testing the network with Python and GitHub Actions ([network-automation-labs](https://github.com/iM-MQ/network-automation-labs))
+  
 ---
 
 ### 🔧 What I work with
