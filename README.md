@@ -1,10 +1,10 @@
 # 👋 Hi there
 
-**Infrastructure & Cloud Engineer** · Azure · Microsoft 365 · Entra ID · Intune · Terraform · Docker
+**Infrastructure & Cloud Engineer** · Azure · Microsoft 365 · Entra ID · Intune · Terraform · Docker · Kubernetes · Python · Networking
 
 I'm an IT contractor with 8+ years delivering infrastructure projects, cloud migrations and end-user computing for global law firms, a global travel management company, education and enterprise clients. I'm equally effective as the sole engineer on a high-visibility project or as part of a larger infrastructure team, and I take pride in delivering on time with minimal disruption to the business.
 
-I'm now building on that experience with infrastructure as code, containers and cloud platforms. Everything here is a hands-on lab I have built, tested and written up myself.
+I'm now building on that experience with infrastructure as code, containers, cloud platforms, networking and automation. Everything here is a hands-on lab I have built, tested and written up myself.
 
 ---
 
@@ -75,8 +75,9 @@ The Docker, Terraform and Kubernetes projects connect. The image built by the Do
 | **Cloud & Identity** | Azure, Entra ID, Entra Connect, Azure Cloud Sync, Hybrid Azure AD Join, AVD, Conditional Access, ADFS, SSO, AWS (EC2, S3, VPC, IAM) |
 | **Microsoft 365** | Exchange Online, SharePoint Online, Teams, OneDrive, Intune / Autopilot, E3 / E5 licensing |
 | **Infrastructure** | Active Directory, GPO, ADMT, Windows Server, Hyper-V, VMware ESXi, DFSR, SCCM / MECM, Citrix |
-| **Networking & Security** | TCP/IP, DNS, DHCP, VLANs, VPN, FortiGate, SonicWall, Palo Alto GlobalProtect, CrowdStrike, Tenable Nessus, BitLocker, LAPS, Cyber Essentials Plus |
-| **Infrastructure as Code & DevOps** | Terraform (Azure, modules, remote state), Docker, Docker Compose, Kubernetes (AKS), Azure Container Apps, Git, GitHub Actions, PowerShell |
+| **Networking & Security** | TCP/IP, DNS, DHCP, VLANs, static routing, OSPF, VPN, Azure Firewall, hub-and-spoke, NSGs, FortiGate, SonicWall, Palo Alto GlobalProtect, CrowdStrike, Tenable Nessus, BitLocker, LAPS, Cyber Essentials Plus |
+| **Infrastructure as Code & DevOps** | Terraform (Azure, modules, remote state), Azure landing zones (management groups, Azure Policy), Docker, Docker Compose, Kubernetes (AKS), Azure Container Apps, Git, GitHub Actions, GitHub Container Registry, Containerlab |
+| **Scripting & Development** | PowerShell, Python (FastAPI, Pydantic, SQLAlchemy, pytest), KQL, Bash |
 
 ### 🤝 How I work
 
