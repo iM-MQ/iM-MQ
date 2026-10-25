@@ -34,7 +34,7 @@ I'm now building on that experience with infrastructure as code, containers and 
 | Project | Scale | What I did |
 |---|---|---|
 | GDPR data-residency remediation | 1,000+ SharePoint and OneDrive accounts | Relocated all affected accounts to the correct region, then designed an onboarding procedure as a preventative control to close the audit finding |
-| SharePoint Online and Teams SME | 600+ user global organisation | Owned site architecture, permissions, sharing models and governance throughout a wider identity migration programme |
+| SharePoint Online and Teams SME | 800+ user global organisation | Owned site architecture, permissions, sharing models and governance throughout a wider identity migration programme |
 | Document management migration | 4,000+ users | Migrated a global law firm to iManage across EMEA and UK offices, including full UAT and QA within Citrix and KB articles for every issue found |
 | Exchange migration | Organisation-wide | Migrated mailboxes from Exchange 2013 to 2016 with no data loss and minimal user impact |
 
